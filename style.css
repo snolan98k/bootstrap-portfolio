@@ -1,8 +1,6 @@
 body {
-    background: url("https://cdn.pixabay.com/photo/2016/04/12/22/35/watercolour-1325656_1280.jpg") no-repeat center center fixed;
-    background-size: cover;
-    -webkit-background-size: cover;
-    flex-wrap: wrap
+    background: url("https://cdn.pixabay.com/photo/2016/04/12/22/35/watercolour-1325656_1280.jpg");
+    background-position: absolute;
 }
 
 #Header a:hover {
