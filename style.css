@@ -20,10 +20,21 @@ h5 {
     text-align: center;
 }
 
-.card-deck {
+#Contact {
     margin-top: 150px;
 }
 
-#Contact {
+#portfolio-container {
+    border: 3px solid white;
+    background-color: white;
     margin-top: 150px;
+}
+
+#img {
+    margin-left: 20px;
+    display: inline-block;
+}
+
+#img2 {
+    margin-left: 70px;
 }
